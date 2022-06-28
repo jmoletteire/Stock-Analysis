@@ -11,6 +11,10 @@ RUN's improvement from 2017 to 2018 is also worth noting, as while all other com
 ### Execution Time
 The program runs in a somewhat reasonable amount of time. With execution times somewhere between 2.6 and 3.3 seconds (depending on machine, other programs, etc.).
 
+##### 2017
 ![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
+
+##### 2018
+![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
 
 ## Summary
