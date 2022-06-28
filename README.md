@@ -11,10 +11,11 @@ RUN's improvement from 2017 to 2018 is also worth noting, as while all other com
 ### Execution Time
 The program runs in a somewhat reasonable amount of time. With execution times somewhere between 2.6 and 3.3 seconds (depending on machine, other programs, etc.).
 
-##### 2017
+##### 2017 Runtime
 ![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
 
-##### 2018
+##### 2018 Runtime
 ![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
 
 ## Summary
+Conducting this analysis shed light on the pros and cons of refactoring code. While it gives the programmer a headstart as opposed to starting from scratch, such a lead can be lost fairly quickly if the programmer is forced to sift through hundreds of lines of code deciphering functionality, correcting errors, or even erasing and rewriting large chunks of the program. That said, it is a perfectly acceptable practice as long as it is well thought out and used within reason. This assignment is a great example, as the foundation for the program had already been created and it worked seamlessly with the new code, so no time was wasted rewriting code that already been written and the programmer could get right into the nitty gritty - figuring out how to implement the intended functionality.
