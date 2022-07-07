@@ -9,7 +9,7 @@ While the returns for almost every stock were astronomical in 2017, only two hol
 RUN's improvement from 2017 to 2018 is also worth noting, as while all other companies struggled to provide returns to their shareholders, RUN saw even greater success, with returns skyrocketing from a meager 5.5% in 2017 to 84.0% in 2018. Perhaps this signals an advantage RUN has in the current market, which may make it the best choice of the eleven. And while ENPH was technically able to withstand a changing market - still providing positive returns for investors - it did see a substantial decline from 2017 (129.5% ROI) to 2018 (81.9% ROI), which could mean it will not remain viable in the future.
 
 ### Execution Time
-The program runs in a somewhat reasonable amount of time. With execution times somewhere between 2.6 and 3.3 seconds (depending on machine, other programs, etc.).
+The program runs in a somewhat reasonable amount of time. With execution times somewhere between 2.6 and 3.3 seconds (depending on machine, other programs running, etc.).
 
 ##### 2017 Runtime
 ![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
